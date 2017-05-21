@@ -15,6 +15,7 @@ public class new1 {
         double totalCash = eurCash * eurPln + usdCash * usdPln + plnCash;
         System.out.println("Hello " + myName + "! " + "You have " + totalCash + " PLN.");
 
+        System.out.println("You have a lot of money!");
     }
 
 
