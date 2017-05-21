@@ -17,10 +17,10 @@ public class new1 {
 
         System.out.println("You have a lot of money!");
 		
-		if(totalCash > 2000){
+		if(totalCash > 3000){
 			System.out.println("Congrats you won the prize!");
 		} else {
-			System.out.println("Loser!");
+			System.out.println("GAME OVER!");
 		}
 		
     }
